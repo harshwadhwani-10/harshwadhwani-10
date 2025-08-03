@@ -11,7 +11,7 @@
 > **AI-Powered Code Optimizer** — _“Big-OH Whisperer”_
 
 ### 🌱 Currently Learning
-> **Next.js**, **TypeScript**, **GraphQL**, **Redux**
+>  **TypeScript**, **GraphQL**, **Redux**
 
 ### 💬 Ask Me About
 > _React performance, frontend architecture, async rendering, and clean UI logic._
