@@ -8,10 +8,10 @@
     <td width="55%">
       
 ### 🛠️ Currently Working On
-> **MEAN PROJECT** 
+> **NextJS PROJECT** 
 
 ### 🌱 Currently Learning
->  **TypeScript**, **Angular**, **Redux**
+>  **TypeScript**, **NextJs**, **Fastify**, **Prisma**
 
 ### 💬 Ask Me About
 > _React performance, frontend architecture, async rendering, and clean UI logic._
