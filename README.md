@@ -43,7 +43,7 @@
 ### 🧰 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nextjs,mongodb,mysql,postgres,php,java,cpp,c,python,graphql,redux,tailwind,sass,bootstrap,git,github,linux,figma,postman,dotnet,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nextjs,mongodb,fastify,prisma,nextjs,neondb,mysql,postgres,php,java,cpp,c,python,graphql,redux,tailwind,sass,bootstrap,git,github,linux,figma,postman,dotnet,bash" />
 </p>
 
 ---
